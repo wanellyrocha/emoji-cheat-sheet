@@ -17,7 +17,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Flags](#flags)
 - [GitHub Custom Emoji](#github-custom-emoji)
 
-### Smileys & Emotion
+### Smileys & Emotion 
 
 - [Face Smiling](#face-smiling)
 - [Face Affection](#face-affection)
